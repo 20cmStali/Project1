@@ -12,11 +12,17 @@ namespace Practica1
         {
 
             Library library = new Library();
+
             library.LName = "Полоцкая городская";
             library.LAddress = "ул. Пушкина, д. Колотушкина";
             library.LYear = 1982;
 
             Console.WriteLine($"{library.LName}  {library.LAddress}  {library.LYear}");
+
+            Library lib1 = new Library("Новополоцкая", "ул. Гоголя", 2020);
+
+            Console.WriteLine($"{library.LName}  {library.LAddress}  {library.LYear}");
+
             Console.ReadKey();
         }
     }
