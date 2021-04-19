@@ -1,0 +1,7 @@
+D:\Work and Study\Практика  2 сем\Practica1\bin\Debug\Practica1.exe.config
+D:\Work and Study\Практика  2 сем\Practica1\bin\Debug\Practica1.exe
+D:\Work and Study\Практика  2 сем\Practica1\bin\Debug\Practica1.pdb
+D:\Work and Study\Практика  2 сем\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+D:\Work and Study\Практика  2 сем\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+D:\Work and Study\Практика  2 сем\Practica1\obj\Debug\Practica1.exe
+D:\Work and Study\Практика  2 сем\Practica1\obj\Debug\Practica1.pdb
